@@ -143,7 +143,6 @@ python脚本在`chaoxing/cx.py`文件中，其中第12—34行为配置区域，
 由于本项目被大量fork并启动actions功能，占用github官方服务器大量资源。部分用户反映无法签到，actions功能被禁止等问题。目前项目停止更新。
 如需使用签到服务，可以提供一个思路，使用Travis Ci运行。学业繁忙，不予教程。
 如果上述方法不会使用，请访问我的服务器 https://cx.clost.net 但并不保证其稳定性。
-过几天，我也会将源码上传。有服务器的同学可以自建共多人使用。
 
 
 [7]: https://cdn.jsdelivr.net/gh/closty/tuchuang/usr/uploads/2020/04/3749713206.png
